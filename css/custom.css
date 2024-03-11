@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: anta;
+    src: url(./assets/fonts/Anta-Regular.ttf);
+  }
+  
+
+.slider{
+  height: 580px!important;
+}
+
+.hero-slider-wrapper{
+  min-height: 600px!important;
+}
+
+.bgnav:hover{
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.filter:not(.basic-filter) ul li a{
+  color:brown !important;
+}
+
